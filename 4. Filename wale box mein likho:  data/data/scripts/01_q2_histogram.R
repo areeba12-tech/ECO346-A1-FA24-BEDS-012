@@ -117,3 +117,4 @@ ggsave(
   width = 10,
   height = 6
 )
+ Figure Q2 is generated and saved as an SVG for the assignment.
