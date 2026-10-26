@@ -25,3 +25,9 @@ Repository Structure
  Tools
 
 R is used for the visualizations. Python or Stata is used for the additional analysis, as required by the assignment.# ECO346-A1-FA24-BEDS-012
+
+
+ Q2: Weighted Histogram of Annual Education Spending
+![Q2 Histogram](figures/q2_histogram.svg)
+ Q3: Weighted Literacy Rates by Age and Sex
+![Q3 Literacy Graph](figures/q3_literacy.svg)
