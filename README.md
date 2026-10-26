@@ -31,3 +31,5 @@ R is used for the visualizations. Python or Stata is used for the additional ana
 ![Q2 Histogram](figures/q2_histogram.svg)
  Q3: Weighted Literacy Rates by Age and Sex
 ![Q3 Literacy Graph](figures/q3_literacy.svg)
+ Project Progress
+Q2 histogram and Q3 literacy visualization have been generated and uploaded.
