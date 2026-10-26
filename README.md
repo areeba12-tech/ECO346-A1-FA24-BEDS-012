@@ -33,3 +33,16 @@ R is used for the visualizations. Python or Stata is used for the additional ana
 ![Q3 Literacy Graph](figures/q3_literacy.svg)
  Project Progress
 Q2 histogram and Q3 literacy visualization have been generated and uploaded.
+# ECO346 Assignment Slides
+
+## Slide 1: Research Question
+How does annual education spending vary among individuals in rural Khyber Pakhtunkhwa?
+
+## Slide 2: Education Spending
+A weighted histogram shows the distribution of annual education spending using PSLM data.
+
+## Slide 3: Literacy by Age and Sex
+The line graph compares weighted literacy rates for men and women across age groups.
+
+## Slide 4: Scatterplot Redesign
+The redesigned scatterplot uses transparency, a trend line, and a restricted display range to improve readability.
